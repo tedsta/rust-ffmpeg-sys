@@ -88,3 +88,4 @@ swscale    = []
 
 # ff api
 ff_api_quant_bias = ["avcodec"]
+ff_api_vaapi = []
