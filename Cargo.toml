@@ -85,3 +85,6 @@ avresample = []
 postproc   = []
 swresample = []
 swscale    = []
+
+# ff api
+ff_api_quant_bias = ["avcodec"]
